@@ -1,0 +1,21 @@
+TODO:
+
+- make everything pretty
+  - decide on font/style
+  - label menu items and show slider values
+  - update sprites for everything and add animations if relevant
+  - menu background/vertical size
+- move background button
+- save/load maps
+- copy/paste
+- show/hide grid button
+- right click menu to edit markers (maybe more buttons on top menu?)
+  - change marker type
+  - user input labels for markers
+  - change marker size (would need to unlink marker size from grid size)
+- sliders
+  - default buttons (maybe option to set defaults)
+  - interactive text box or dropdown to set value
+  - click bar to move (?)
+- keyboard shortcuts
+- undo/redo

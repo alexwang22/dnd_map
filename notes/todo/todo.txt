@@ -19,3 +19,4 @@ TODO:
   - click bar to move (?)
 - keyboard shortcuts
 - undo/redo
+- edit/present mode (?)

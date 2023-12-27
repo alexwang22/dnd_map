@@ -7,7 +7,6 @@ color_list = [
 	c_gray,
 	c_green,
 	c_lime,
-	c_ltgray,
 	c_maroon,
 	c_navy,
 	c_olive,

@@ -9,10 +9,3 @@ if mouse_check_button(mb_left) {
 		selected = false;
 	}
 }
-
-color = [
-	color_get_red(obj_color_selector.selected_color) / 255,
-	color_get_green(obj_color_selector.selected_color) / 255,
-	color_get_blue(obj_color_selector.selected_color) / 255,
-	1.0
-]

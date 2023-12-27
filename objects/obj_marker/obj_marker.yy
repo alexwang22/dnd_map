@@ -34,7 +34,8 @@
         "0.0",
         "1.0",
         "1.0",
-      ],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.0","varType":6,},
+      ],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$FFFF0000","varType":7,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"label","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"","varType":2,},
   ],
   "solid": false,
   "spriteId": {
